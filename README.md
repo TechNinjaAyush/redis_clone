@@ -30,6 +30,8 @@ Redis clone using golang
 
 3.If a socket has data, Redis reads, processes the command, and sends the response immediately — all in one thread.
 
+4. pls contact
+
 
 
 
